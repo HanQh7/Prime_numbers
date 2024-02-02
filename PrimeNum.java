@@ -1,7 +1,7 @@
 package ds;
 import java.util.*;
 
-public class Assignement_Q4 {
+public class Prime_num {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
